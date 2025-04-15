@@ -6,14 +6,13 @@
 
 int main() {
     std::string name;
-    double number1, number2;
-
-
 
     std::cout <<"Hello! What's your name? ";
     std::cin >> name;
 
     std::cout << "welcome, " << name << "!" << std::endl;
+
+    double number1, number2;
 
     std::cout <<"Enter the first number: ";
     std::cin >> number1;
