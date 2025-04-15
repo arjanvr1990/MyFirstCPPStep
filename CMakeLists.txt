@@ -12,3 +12,12 @@ add_executable(task2_score_to_grade Practice/task2_score_to_grade.cpp)
 add_executable(task3_calculator_deluxe Practice/task3_calculator_deluxe.cpp)
 
 add_executable(loops Practice/loops.cpp)
+
+
+
+add_executable(first_mini_project
+        First_mini_project/main.cpp
+        First_mini_project/math_operations.cpp
+        First_mini_project/math_operations.h
+)
+
